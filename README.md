@@ -1,38 +1,58 @@
-# konaito - アプリケーションエンジニア / 岩手大学 数理物理
 
-## 👋 はじめに
-初めまして、konaitoと申します。WebとNativeの両方でアプリケーション開発を行っているエンジニアです。現在、岩手大学で数理物理を学んでおり、プログラミングは大学入学を機に始めました。特に42Tokyoでの学びを通じ、深いコンピューターサイエンスの知識を身につけています。
+# konaito – FYBE Founder / Serial Entrepreneur & Full‑Stack Engineer
 
-私の開発旅路は、大学生活の中で多岐にわたるプロジェクトに取り組むことから始まりました。これには、ハッカソンへの参加、Webアプリケーションのバイト、インターン、受託開発、そして個人プロジェクトが含まれます。
+<p align="right">
+  <a href="https://x.com/konaito_copilot"><img src="https://img.shields.io/badge/X-@konaito_copilot-000?logo=x" alt="X: @konaito_copilot"></a>
+  <a href="https://www.instagram.com/konaito5/"><img src="https://img.shields.io/badge/Instagram-@konaito5-E1306C?logo=instagram" alt="Instagram: @konaito5"></a>
+  <a href="https://note.com/konaito"><img src="https://img.shields.io/badge/Note-@konaito-41C9B4?logo=note" alt="note: @konaito"></a>
+  <a href="mailto:ceo@fybe.jp"><img src="https://img.shields.io/badge/Email-ceo@fybe.jp-D14836?logo=gmail" alt="Email"></a>
+</p>
 
-## 🛠 スキル
-- フロントエンド: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`
-- バックエンド: `Python`, `C`, `Go`, `Rust`
-- ブロックチェーン: `Solidity`
-- モバイル開発: `Flutter`
-- ゲーム開発: `Unity`
-- データベース・バックエンド: `Firebase`, `Supabase`
+## 👋 自己紹介
+- **FYBE** 創業者 / 代表取締役。AI × Web 技術で「開発を 10× 加速する」プロダクトを企画・実装・グロースまで一貫して推進。  
+- 岩手大学 **数理物理専攻**。理論的思考をベースに、LLM・RAG・Web3 など最先端技術をプロダクトに落とし込む“ビルダー型”起業家。  
+- “ネクストアクセンチュア” をスローガンに、AI を用いた DX/自動化ソリューションの受託・共同開発も展開。  
 
-## 📜 経歴
-- **2023年9月**: 42Tokyo 入学
-- **2023年8月**: 株式会社DONUTS インターン
-- **2022年11月**: 株式会社MOSHIMOS アルバイト
-- **2021年4月**: 岩手大学 入学
-- **2020年3月**: 川崎市立川崎高等学校 卒業
+## 🏢 Entrepreneurial Highlights
+| 年 | スタートアップ / プロジェクト | 役割 & フェーズ |
+| :-- | :-- | :-- |
+| **2025 –** | **FYBE Inc.** | Founder / CEO ─ AI DevOps プロダクトを開発・社内 R&D チーム運営 |
+| **2025** | **vibe起業.md** | プロダクトオーナー ─ チャット × Markdown で企画書を生成・進化させる AI ツール |
+| **2025** | **SubtitleGuard** | Tech Lead ─ YouTube 自動字幕を AI で検証・最適化する SaaS |
+| **2024** | **DriveRAG** | 共同開発 ─ Google Drive ライクなマルチモーダル RAG アプリ |
 
-## 🚀 プロジェクト
-私がこれまでに取り組んできたプロジェクトの一部を紹介します。プロジェクトの全容については、[こちらのポートフォリオサイト](https://konaito.github.io)をご覧ください。
-- **がんコマ**: 岩手大学向けの時間割アプリ
-- **zk-geo**: ゼロ知識証明を利用したプライバシー保護型地点証明システム
-- **Enn-Drive**: ブロックチェーンを使用した車両間評価システム
-- **Calen & CopyCal**: 効率的なスケジュール管理を実現するカレンダーアプリ
+## 🛠 Tech & Biz Stack
+| 領域 | コアスキル |
+| :-- | :-- |
+| **Business** | リーンキャンバス / PMF 検証 / Go‑to‑Market / KPI 設計 |
+| **Product** | 企画 ➜ UX ➜ 開発 ➜ グロースを一気通貫で推進 |
+| **Frontend** | Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui |
+| **Backend / DevOps** | Supabase, Edge Functions, Node.js, Docker, Vercel, GitHub Actions |
+| **AI / LLM** | LangChain, Gemini, OpenAI, Vector DB, Agentic Workflow |
+| **Blockchain** | Solidity, Hardhat, Zero‑Knowledge Proof, Ethers.js |
 
-## 📱 SNS & 連絡先
-- Twitter: [@konaito0219](https://twitter.com/konaito0219)
-- Instagram: [@kota_fyb](https://www.instagram.com/konaito_/)
-- Facebook: [Profile](https://www.facebook.com/profile.php?id=100078669887929)
-- Email: [withuto@gmail.com](mailto:withuto@gmail.com)
+## 📚 学歴 & 職歴
+| 期間 | 所属・役割 |
+| :-- | :-- |
+| **2021.04 – 現在** | 岩手大学 数理物理学科 |
+| **2023.09 –** | 42Tokyo Cadet |
+| **2024.12** | 株式会社 UPSIDER ─ 新規事業開発インターン |
+| **2023.08** | 株式会社 DONUTS ─ サマーインターン |
+| **2022.11** | 株式会社 MOSHIMOS ─ バックエンドアルバイト |
+
+## 🚀 開発中 & 公開済みプロダクト
+- **vibe起業.md** – 壁打ちチャットで企画書を“育てる” AI 書記ツール  
+- **SubtitleGuard** – YouTube 字幕の品質を自動チェック & 改善  
+- **DriveRAG** – ドライブ UI × マルチモーダル RAG の文書検索基盤  
+- **zk‑geo** – ZKP を用いたプライバシー保護型位置証明 OSS  
+- **がんコマ** – 岩手大生向け時間割アプリ (Flutter)  
+
+## 💬 Connect
+AI × RAG × Web3 で **“超効率”** な未来を共創できる仲間・企業パートナーを募集中です。  
+コラボ・登壇・取材など、お気軽に SNS またはメールにてご連絡ください！
 
 ---
 
-私の経歴やプロジェクトに興味を持っていただけた方は、ぜひ[ポートフォリオサイト](https://konaito.github.io)もご覧ください。さらに詳しい情報や、私との連絡方法についてはそちらをご参照ください。
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=konaito&show_icons=true&theme=tokyonight" alt="konaito's GitHub stats" />
+</p>
