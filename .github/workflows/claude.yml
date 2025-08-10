@@ -10,14 +10,22 @@ on:
     types: [submitted]
 jobs:
   claude:
+    if: |
+      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@claude')) ||
+      (github.event_name == 'pull_request_review_comment' && contains(github.event.comment.body, '@claude')) ||
+      (github.event_name == 'pull_request_review' && contains(github.event.review.body, '@claude')) ||
+      (github.event_name == 'issues' && (contains(github.event.issue.body, '@claude') || contains(github.event.issue.title, '@claude')))
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      pull-requests: write
-      issues: write
+      contents: write        # For modifying files (e.g., moving note articles)
+      pull-requests: write   # For creating/updating PRs
+      issues: write          # For commenting on issues
+      id-token: write        # For OIDC token access
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # Full history for file operations
       - name: Run Claude Code
         uses: anthropics/claude-code-action@beta
         with:
