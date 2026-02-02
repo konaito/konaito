@@ -1,16 +1,76 @@
-## Hi there 👋
+# ペルソナ・プロファイル：内藤 剛汰（Kota Naito）
 
-<!--
-**konaito/konaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. 基本情報
 
-Here are some ideas to get you started:
+* **ペルソナID:** `ec217800-10dd-45cf-baec-1d868fc8e20c`
+* **抽出日時:** 2026-02-02 21:02:07
+* **属性:**
+* **年齢層:** 23歳
+* **職業:** ソフトウェアデベロッパー／エンジニア、連続起業家（FYBE CEO、Incerto株式会社CEOなど）
+* **居住地:** 日本（神奈川出身、現在は東京を拠点に活動）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 2. ペルソナ要約
+
+内藤剛汰は、20代のソフトウェアエンジニア兼起業家です。神奈川県川崎市に生まれ、岩手大学を休学、東京の「42Tokyo」で高度なプログラミングを習得しました。現在はFYBEのCEO、Incerto株式会社のCEO
+
+---
+
+## 3. 興味・関心事（タクソノミー）
+
+技術、ビジネス、個人投資からライフスタイルまで、非常に多岐にわたる関心を持っています。
+
+### **テクノロジー & 開発**
+
+* **フロントエンド/モバイル:** React, Next.js, TypeScript, Flutter, React Native (Expo), UI/UXデザイン, ASO最適化
+* **バックエンド/インフラ:** Node.js, Bun, Firebase (Functions/Firestore), Supabase (PostgreSQL, RLS, CLI), Docker, Cloudflare Tunnel, Terraform, Deno, Symbolリンク, 環境変数
+* **AI/ML:** LangChain, MCP (Model Context Protocol), AI API (Google Generative AI), カスタマーサポート自動化, マルチモーダルRAG
+* **Web3 & ブロックチェーン:** Solidity, スマートコントラクト, NFT, RWA (現実資産), DeFi, Ethereum L2 (Base), ガスコスト分析
+
+### **投資 & 金融**
+
+* **株式市場:** 日本株（日経平均、新興株）、米国株、AI活用株価予測、高利回り銘柄、資産形成、金融自由化
+* **仮想通貨:** ビットコイン、暗号資産トレード（パーペチュアル先物、現物）、XAUT
+
+### **ビジネス & ライフスタイル**
+
+* **起業:** ハッカソン、AI、外部CTO、受託開発、プロダクト開発
+* **趣味・その他:** ポケモン、ONE PIECE
+
+---
+
+## 4. 価値観と行動原理
+
+### **コアバリュー**
+
+* **技術革新への適応:** AIの進化をポジティブに捉え、スキルが陳腐化する前に活用する「先行逃げ切り」の精神。
+* **社会価値の創造:** 社会課題の解決とイノベーションの両立。
+* **実利と効率:** 最善のプラクティス（SOLID原則、クリーンコード）の追求、自動化、効率的なデバッグ。
+* **誠実さと信頼:** 仲間を大切にし、偽りのない関係を築く。一方で、暗号資産のガス代や不透明な取引には懐疑的な視点を持つ。
+* **アンチフラジャイル:** 失敗を糧に改善を繰り返すサイクルを重視。
+
+### **行動パターン**
+
+* **学習習慣:** ハッカソンへの積極参加、noteでの技術発信、最新ツール（Cursor, Gemini, Claude MCP等）の試行。
+* **意思決定:** データとロジックに基づきつつも、直感とトレンドを掛け合わせた大胆な決断。検証を怠らない慎重さと、実行の速さを併せ持つ。
+* **社会的行動:** 外部CTO的な視点での事業支援、若手キャリア支援。
+
+---
+
+## 5. コミュニケーションスタイル
+
+* **トーン:** 技術的な文脈では **「Instructional（教育的）」** かつ **「Formal（形式的）」**。
+* SNSやチャットでは **「Casual（カジュアル）」** で、時折日本語のスラングや絵文字、感情的な表現が混ざる。
+
+---
+
+## 6. 信頼性スコア
+
+| 項目 | スコア |
+| --- | --- |
+| **興味 (Interests)** | 0.8 |
+| **価値観 (Values)** | 0.8 |
+| **コミュニケーション (Comm. Style)** | 0.8 |
+| **行動パターン (Behavioral Patterns)** | 0.8 |
+| **属性 (Demographics)** | 0.8 |
